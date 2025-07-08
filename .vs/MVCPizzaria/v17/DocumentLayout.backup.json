@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\services\\pizzas\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:services\\pizzas\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\services\\pizzas\\ipizzainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:services\\pizzas\\ipizzainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\views\\pizza\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:views\\pizza\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\dto\\pizzacriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:dto\\pizzacriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\models\\pizzamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:models\\pizzamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\views\\pizza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:views\\pizza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|c:\\fullsoft\\estudos\\mvcpizzaria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0106E6-DB20-4EBD-9BCE-D54CD1BBD329}|MVCPizzaria.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Services\\Pizzas\\PizzaService.cs",
+              "RelativeDocumentMoniker": "Services\\Pizzas\\PizzaService.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Services\\Pizzas\\PizzaService.cs",
+              "RelativeToolTip": "Services\\Pizzas\\PizzaService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:18:59.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPizzaInterface.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Services\\Pizzas\\IPizzaInterface.cs",
+              "RelativeDocumentMoniker": "Services\\Pizzas\\IPizzaInterface.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Services\\Pizzas\\IPizzaInterface.cs",
+              "RelativeToolTip": "Services\\Pizzas\\IPizzaInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:18:19.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T15:12:46.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PizzaModel.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Models\\PizzaModel.cs",
+              "RelativeDocumentMoniker": "Models\\PizzaModel.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Models\\PizzaModel.cs",
+              "RelativeToolTip": "Models\\PizzaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:31:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzaCriacaoDTO.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\DTO\\PizzaCriacaoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PizzaCriacaoDTO.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\DTO\\PizzaCriacaoDTO.cs",
+              "RelativeToolTip": "DTO\\PizzaCriacaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:09:42.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Views\\Pizza\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pizza\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Views\\Pizza\\Cadastrar.cshtml",
+              "RelativeToolTip": "Views\\Pizza\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T14:53:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:33:52.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T14:32:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:29:43.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:29:43.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Views\\Pizza\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pizza\\Index.cshtml",
+              "ToolTip": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\Views\\Pizza\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pizza\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T14:15:16.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
