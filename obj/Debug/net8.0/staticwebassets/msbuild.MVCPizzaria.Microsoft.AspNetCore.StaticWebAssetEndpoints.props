@@ -36,6 +36,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37886"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 17:27:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVCPizzaria/Imagens/pizza.png4314a877-2e54-4d19-bc52-593e0741792b.mn3xlay8k4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagens\pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mn3xlay8k4"},{"Name":"integrity","Value":"sha256-PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE="},{"Name":"label","Value":"_content/MVCPizzaria/Imagens/pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37886"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Jul 2025 14:30:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MVCPizzaria/Imagens/pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagens\pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37886"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Jul 2025 14:30:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MVCPizzaria/Imagens/pizza.pngb59743a9-fbd2-4868-963d-1b7b04059684.mn3xlay8k4.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagens\pizza.pngb59743a9-fbd2-4868-963d-1b7b04059684.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

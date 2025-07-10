@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCPizzaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e51f2fe3846045217a4cb98efe0de4c84959ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCPizzaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCPizzaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\Imagens\pizza.png28f45a9f-f072-40aa-9401-08fdf9d21b89.png
+wwwroot\Imagens\pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png
 wwwroot\Imagens\pizza.pngb59743a9-fbd2-4868-963d-1b7b04059684.png
 wwwroot\Imagens\pizza.pngeb3bff44-cc11-4d38-b9c9-c9d73cd6e03d.png
 wwwroot\js\site.js

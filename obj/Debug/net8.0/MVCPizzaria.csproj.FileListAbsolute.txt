@@ -138,3 +138,4 @@ C:\Fullsoft\Estudos\MVCPizzaria\obj\Debug\net8.0\MVCPizzaria.pdb
 C:\Fullsoft\Estudos\MVCPizzaria\obj\Debug\net8.0\MVCPizzaria.genruntimeconfig.cache
 C:\Fullsoft\Estudos\MVCPizzaria\obj\Debug\net8.0\ref\MVCPizzaria.dll
 C:\Fullsoft\Estudos\MVCPizzaria\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Fullsoft\Estudos\MVCPizzaria\obj\Debug\net8.0\MVCPizzaria.sourcelink.json

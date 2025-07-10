@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UYqPCHEvBoPxgJrcc8H5evpI3Y61/Dgjct7MJxvdJCo=",
+  "Hash": "UenO2+J5jom9wAMAN2ftPnfnHKnafyaxILHHt5O4m7U=",
   "Source": "MVCPizzaria",
   "BasePath": "_content/MVCPizzaria",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagens\\pizza.png28f45a9f-f072-40aa-9401-08fdf9d21b89.png"
+    },
+    {
+      "Identity": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\wwwroot\\Imagens\\pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png",
+      "SourceId": "MVCPizzaria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\wwwroot\\",
+      "BasePath": "_content/MVCPizzaria",
+      "RelativePath": "Imagens/pizza.png4314a877-2e54-4d19-bc52-593e0741792b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mn3xlay8k4",
+      "Integrity": "PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagens\\pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png"
     },
     {
       "Identity": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\wwwroot\\Imagens\\pizza.pngb59743a9-fbd2-4868-963d-1b7b04059684.png",
@@ -1616,6 +1637,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 08 Jul 2025 17:27:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagens/pizza.png4314a877-2e54-4d19-bc52-593e0741792b.mn3xlay8k4.png",
+      "AssetFile": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\wwwroot\\Imagens\\pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 14:30:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mn3xlay8k4"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagens/pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagens/pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png",
+      "AssetFile": "C:\\Fullsoft\\Estudos\\MVCPizzaria\\wwwroot\\Imagens\\pizza.png4314a877-2e54-4d19-bc52-593e0741792b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PrLtDatP5RD4VB0Tnafrx1Zpj6lnX4AQRvOkzCXUSeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 14:30:10 GMT"
         },
         {
           "Name": "Cache-Control",
